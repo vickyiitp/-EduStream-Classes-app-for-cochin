@@ -1,0 +1,8 @@
+{
+  "name": "EduStream Class 9-10 Dashboard",
+  "description": "A modern EdTech platform dashboard for students in classes 9-10, featuring live classes, batch tracking, and a comprehensive classroom interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
